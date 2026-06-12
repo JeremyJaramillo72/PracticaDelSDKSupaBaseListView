@@ -20,7 +20,8 @@ Aplicación nativa de Android desarrollada en Kotlin que se conecta a una base d
 
 | Interfaz Principal | Lista de Alumnos Cargada |
 |:---:|:---:|
-| <img src="<img width="1031" height="1032" alt="Captura de pantalla 2026-06-10 193336" src="https://github.com/user-attachments/assets/fb9aea04-f79b-4a46-958f-4d14de8df3cf" />" width="250"/> | <img src="<img width="1918" height="1023" alt="Captura de pantalla 2026-06-10 193319" src="https://github.com/userattachments/assets/c85e63c9-841b-4901-97a1-0e58a36b401e" />" width="250"/> |
+| <img src="<img width="1031" height="1032" alt="Captura de pantalla 2026-06-10 193336" src="https://github.com/user-attachments/assets/fb9aea04-f79b-4a46-958f-4d14de8df3cf" />" width="250"/> |
+<img src="<img width="1918" height="1023" alt="Captura de pantalla 2026-06-10 193319" src="https://github.com/userattachments/assets/c85e63c9-841b-4901-97a1-0e58a36b401e" />" width="250"/> |
 
 ---
 
