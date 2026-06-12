@@ -14,15 +14,11 @@ Aplicación nativa de Android desarrollada en Kotlin que se conecta a una base d
 
 ---
 
-## 📸 Capturas de Pantalla
+## 📸 capturas de pantalla
 
-*(Nota: Reemplazar estas imágenes con las fotos reales de la aplicación funcionando una vez subidas a tu repositorio)*
-
-| Interfaz Principal | Lista de Alumnos Cargada |
+| interfaz principal | lista de alumnos cargada |
 |:---:|:---:|
-| <img src="<img width="1031" height="1032" alt="Captura de pantalla 2026-06-10 193336" src="https://github.com/user-attachments/assets/fb9aea04-f79b-4a46-958f-4d14de8df3cf" />" |
-<img src="<img width="1918" height="1023" alt="Captura de pantalla 2026-06-10 193319" src="https://github.com/user-attachments/assets/3ecfc42c-5c88-4c0f-9357-bcab35c3d10e" />
-" />" |
+| ![interfaz principal](https://github.com/user-attachments/assets/fb9aea04-f79b-4a46-958f-4d14de8df3cf) | ![lista de alumnos](https://github.com/user-attachments/assets/3ecfc42c-5c88-4c0f-9357-bcab35c3d10e) |
 
 ---
 
